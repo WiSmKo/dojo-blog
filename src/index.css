@@ -49,3 +49,32 @@
   color: #333;
   margin-bottom: 8px;
 }
+
+.blog-preview a{
+  text-decoration: none;
+}
+
+/*Blog Details*/
+
+.blog-details h2 {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 15px;
+}
+
+.blog-details .author {
+  color: #747474;
+}
+
+.blog-details div {
+  margin: 25px 0;
+}
+
+.blog-details button {
+  background: #333;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
